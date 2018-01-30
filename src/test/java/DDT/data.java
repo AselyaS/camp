@@ -1,5 +1,5 @@
 package DDT;
-
+asekioni peperoni
 public class data {
     public static String email(){
         return "jozifop@amail.club";}
