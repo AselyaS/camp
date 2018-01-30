@@ -1,0 +1,24 @@
+how to contribute to some repo?
+we forked Assel’s repo
+we have cloned fork of  Assel’s repo
+we created a branch(srikant) on local clone
+we changed few files on local clone
+we committed to local clone
+we pushed to  fork of Assel’s repo.
+we submitted pull request.
+Then, Assel approved the PR and merged the branch (srikant) to Assel’s master branch
+
+
+Assel’s repo : upstream
+local clone:  laptop
+ fork of Assel’s repo: origin
+
+
+Assel’s repo (upstream) has latest  changes from everybody
+How do we get all the latest changes to our fork?
+we added git remote upstream
+we switched to master on local clone
+we fetched latest changes from upstream.
+we merged upstream/master to master (local clone)
+we pushed master branch on  local clone to fork(origin)
+now origin has all the latest commits from upstream
