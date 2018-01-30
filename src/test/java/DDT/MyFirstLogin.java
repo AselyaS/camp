@@ -18,7 +18,7 @@ public class MyFirstLogin {
     public void loginToMyApp(String email, String password) throws InterruptedException {
 
         driver = new ChromeDriver();
-
+//new driver was added - Natasha
         driver.manage().window().maximize();
 
         driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
