@@ -32,6 +32,7 @@ public class MyFirstLogin {
         driver.findElement(By.xpath("//button[@class='btn btn-block btn-primary mt-lg']")).click();
 
         Thread.sleep(5000);
+        //test Git
 
         //System.out.println(driver.getTitle());
 
